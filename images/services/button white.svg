@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="206" height="54" viewBox="0 0 206 54">
+  <g id="Group_417" data-name="Group 417" transform="translate(0.109 0.457)">
+    <rect id="Rectangle_136" data-name="Rectangle 136" width="206" height="54" transform="translate(-0.109 -0.457)" fill="#fff"/>
+    <g id="Group_89" data-name="Group 89" transform="translate(23.101 14.094)">
+      <text id="Know_More" data-name="Know More" transform="translate(0.293 0.449)" fill="#151d41" font-size="20" font-family="ElMessiri-Bold, El Messiri" font-weight="700"><tspan x="0" y="20">Know More</tspan></text>
+      <path id="arrow" d="M12.017,4.863a.633.633,0,0,0-.9.89l4.56,4.56H.63a.627.627,0,0,0-.63.63.633.633,0,0,0,.63.639H15.678l-4.56,4.552a.646.646,0,0,0,0,.9.63.63,0,0,0,.9,0l5.64-5.64a.619.619,0,0,0,0-.89Z" transform="translate(141.44 2.409)" fill="#151d41"/>
+    </g>
+  </g>
+</svg>
