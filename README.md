@@ -1,4 +1,4 @@
 ## Made with
--HTML
--CSS
--Bootsrap
+- HTML
+- CSS
+- Bootsrap
